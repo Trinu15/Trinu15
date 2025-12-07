@@ -1,63 +1,26 @@
-<!-- Tech Arcade Header -->
-<h1 align="center">🎯 S TRINAINI — PLAYER 1</h1>
-<h3 align="center">AI & Cloud Dev Ninja ⚡</h3>
+<h1 align="center">Hi 👋, I'm S TRINAINI</h1>
+<h3 align="center">💡 Leveling up in AI & Cloud Development 🚀</h3>
 
-<p align="center">
-🚀 Leveling up in AI & Cloud Dev!  
-🕹️ Welcome to my Tech Arcade!
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trinu15&label=Profile%20views&color=0e75b6&style=flat" alt="trinu15" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trinu15" alt="trinu15" /></a> </p>
 
-### 🧑‍💻 Player Stats
+- 🔭 I’m currently working on [ArtEcho](https://inquisitive-lollipop-d5ae22.netlify.app/)
 
-| Skill                     | Level |
-|--------------------------|------|
-| AI & Machine Learning 🤖 | █████▒▒▒▒ |
-| Cloud (GCP) ☁️            | ██████▒▒▒ |
-| Backend Dev 🔧           | █████▒▒▒▒ |
-| Problem Solving 🧠       | ███████▒▒ |
+- 🌱 I’m currently learning **Machine learning, AI**
 
----
+- 💬 Ask me about **Building & Scaling full-stack apps!**
 
-### 🧰 Tech Inventory (Skills)
+- 📫 How to reach me **strinaini@gmail.com**
 
+- ⚡ Fun fact **"I talk to AI daily - and sometimes it talks back."**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00FF99?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<a href="https://linkedin.com/in/s trinaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s trinaini" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/23102a040715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23102a040715" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/23102a040715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="23102a040715" height="30" width="40" /></a>
 </p>
 
----
-
-### 🎯 Current Mission
-**Project ArtEcho 🎨🤖**  
-✨ Blending creativity & AI — bringing artistic imagination to life!
-
----
-
-### 📈 XP Progress
-
-| Category | Badge |
-|--------|------|
-| Total XP | 💠 4,591 |
-| Badge | 🔥 S-Trinaini |
-| Commit Streak | 🔥 6️⃣ Days |
-
----
-
-### 🏆 Achievement Map (Most Used Skills)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trinu15&layout=compact&theme=radical)
-
----
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-trinaini-b8128034b)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strinaini@gmail.com)
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
