@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trinu15/Trinu15/main/banner.png" alt="S Trinaini - Leveling up in AI & Cloud Dev" />
+</p>
 
-<!--
-**Trinu15/Trinu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm <strong>S Trinaini</strong></h1>
 
-Here are some ideas to get you started:
+<p align="center">💡 Leveling up in AI & Cloud Development 🚀</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 About Me
+- 🎯 Currently working on **Project ArtEcho**
+- 🔥 Passionate about **AI, Cloud & Automation**
+- 🤝 Open to collaborating on **AI/ML & GCP projects**
+
+---
+
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,git,firebase,gcp,linux" />
+</p>
+
+---
+
+### 📬 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-trinaini-b8128034b"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:strinaini@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+### 🕹️ Fun Fact
+> “Every bug I fix… gives me +1 XP 🧩”
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile! Star 🌟 some repositories if you like my work!
+</p>
