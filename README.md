@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER — renders as a real image on GitHub -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:5DCAA5,100:EF9F27&height=200&section=header&text=Trinaini%20S&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=CS%20Student%20%7C%20GenAI%20Builder%20%7C%20Product%20Thinker&descSize=18&descAlignY=62&descColor=ffffff&animation=fadeIn"/>
 
-<!-- BADGES ROW — all render as colored images on GitHub -->
 ![CGPA](https://img.shields.io/badge/CGPA-9.27%20%2F%2010-7F77DD?style=for-the-badge&logo=academia&logoColor=white)
 ![Rank](https://img.shields.io/badge/AIR_39-Young%20Turks%202025-EF9F27?style=for-the-badge&logo=trophy&logoColor=white)
 ![Uni](https://img.shields.io/badge/Mohan%20Babu%20University-2023--2027-5DCAA5?style=for-the-badge&logo=graduation-cap&logoColor=white)
@@ -21,7 +19,6 @@
 
 ```yaml
 name        : Trinaini S
-role        : CS Student → GenAI Product Builder
 university  : Mohan Babu University (B.Tech CSE)
 location    : Madanapalle, Andhra Pradesh, India
 cgpa        : 9.27 / 10
@@ -132,11 +129,11 @@ vibe        : "Ship fast. Think deeply. Build boldly."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trinu15&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=EF9F27&currStreakLabel=5DCAA5"/>
+<img src="https://streak-stats.demolab.com/?user=Trinu15&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=EF9F27&currStreakLabel=5DCAA5"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trinu15&bg_color=0d1117&color=7F77DD&line=5DCAA5&point=EF9F27&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trinu15&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
