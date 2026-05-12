@@ -1,201 +1,138 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=TRINAINI%20S&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Building%20products%20that%20think&descSize=20&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEEDFE,50:AFA9EC,100:7F77DD&height=180&section=header&text=Trinaini%20S&fontSize=64&fontColor=26215C&fontAlignY=38&desc=CS%20Student%20·%20GenAI%20Builder%20·%20Product%20Thinker&descSize=18&descAlignY=60&descColor=3C3489&animation=fadeIn" />
 
-<!-- STATUS BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/Status-Building_something_cool-a78bfa?style=for-the-badge&labelColor=0f0c29&logo=rocket" />
-  <img src="https://img.shields.io/badge/CGPA-9.27_/_10-38bdf8?style=for-the-badge&labelColor=0f0c29&logo=star" />
-  <img src="https://img.shields.io/badge/AIR_39-Young_Turks_2025-f472b6?style=for-the-badge&labelColor=0f0c29&logo=trophy" />
-</p>
+[![CGPA](https://img.shields.io/badge/CGPA-9.27-534AB7?style=flat-square&labelColor=EEEDFE)](https://github.com/Trinu15)
+[![Rank](https://img.shields.io/badge/AIR_39-Young_Turks_2025-993C1D?style=flat-square&labelColor=FAECE7)](https://github.com/Trinu15)
+[![Batch](https://img.shields.io/badge/MBU-2023_→_2027-0F6E56?style=flat-square&labelColor=E1F5EE)](https://github.com/Trinu15)
+[![Location](https://img.shields.io/badge/Madanapalle-India-854F0B?style=flat-square&labelColor=FAEEDA)](https://github.com/Trinu15)
 
 </div>
 
 ---
 
-<!-- ABOUT — PRODUCT CARD STYLE -->
-<table>
-<tr>
-<td width="55%">
-
-## `> whoami`
-
-```yaml
-name        : Trinaini S
-role        : CS Student → Product Builder
-university  : Mohan Babu University (2023–2027)
-location    : Madanapalle, India 🇮🇳
-superpower  : Turning ideas into working AI products
-currently   : Exploring GenAI × Real-World Problems
-vibe        : "Ship fast. Think deeply. Build boldly."
-```
-
-</td>
-<td width="45%" align="center">
-
-### 🧠 My Stack at a Glance
+## `Identity map`
 
 ```
-Languages  ████████████  Java · Python · JS
-AI/GenAI   ██████████░░  Genkit · Claude API
-Frontend   ████████░░░░  Next.js · Tailwind · React
-Data       ███████░░░░░  pandas · matplotlib · SQL
-Design     ████████░░░░  ShadCN · Framer Motion
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Products
-
-> *Not just projects — shipped products with real users in mind.*
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 ArtEcho
-**GenAI Marketplace Assistant**
-
-> Empowers local artisans with AI-generated product listings, multilingual content, and global marketplace reach — built in 48 hours at Hack2Skill GenAI Exchange Hackathon.
-
-**Stack:** `Next.js` `TypeScript` `Google Genkit` `Tailwind` `ShadCN UI` `Framer Motion` `Zod`
-
-`🏆 Hackathon Build` · `GenAI` · `Social Impact`
-
-</td>
-<td width="50%">
-
-### 🍳 FridgeNow
-**Cook What You Actually Have**
-
-> Drop 3 fridge ingredients → get a real, cookable recipe in under 5 seconds. No substitutions. No grocery runs. Just food.
-
-**Stack:** `HTML` `CSS` `JavaScript` `Anthropic Claude API`
-
-`⚡ Solo Build` · `Claude API` · `Instant UX`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚌 BusNow
-**Real-Time Bus Delay Predictor**
-
-> Predicts Hyderabad bus ETAs with **91% accuracy** using live GPS + 30-day delay history. Tells commuters exactly when to leave home.
-
-**Stack:** `GTFS Realtime` `Haversine Formula` `HTML` `CSS` `JS`
-
-`📍 Solo Build` · `Civic Tech` · `91% Accuracy`
-
-</td>
-<td width="50%">
-
-### 🏏 IPL Data Story
-**Death Overs Win Matches, Not the Toss**
-
-> Analysed 370+ IPL matches across 5 seasons. Found death overs are **3.6× more decisive** than the powerplay. Data that rewrites cricket wisdom.
-
-**Stack:** `Python 3.10+` `pandas` `matplotlib`
-
-`📊 Solo Analysis` · `Sports Analytics` · `370+ Matches`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Experience & Internships
-
-```
-🟣  BCG X (Forage)         GenAI Job Simulation              Oct 2025
-     └─ Applied GenAI to strategic consulting business problems
-
-🟤  Tata Group (Forage)    GenAI Powered Data Analytics      Sep 2025
-     └─ Enterprise-grade GenAI applied to real data challenges
-
-🟡  Hack2Skill             GenAI Exchange Hackathon Builder   Aug–Sep 2025
-     └─ Built & shipped ArtEcho in a 48-hour hackathon sprint
+    Java · Python ──────┐
+    GenAI · DSA  ────── ►  [ Trinaini S · Builder · Thinker · Creator ]  ──► Ship products fast
+    Next.js · React ────┘                                                  ──► Win hackathons
+                                                                           ──► Write · Solve · Draw
 ```
 
 ---
 
-## 🏆 Achievements Unlocked
+## `Products shipped`
+
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│    ArtEcho      │ ──► │   FridgeNow     │ ──► │    BusNow       │ ──► │  IPL Analysis   │
+│  GenAI market   │     │  Claude API     │     │  91% accuracy   │     │  370+ matches   │
+│  Hack2Skill '25 │     │  3 items → meal │     │  Live GPS · Hyd │     │  Death overs 3.6│
+└────────┬────────┘     └────────┬────────┘     └────────┬────────┘     └────────┬────────┘
+         │                       │                        │                        │
+  Next.js · Genkit         HTML · JS                GTFS · Haversine       Python · pandas
+  TypeScript · ShadCN      Claude API                    CSS · JS              matplotlib
+```
+
+### 🎨 ArtEcho — GenAI Marketplace Assistant
+A GenAI assistant empowering local artisans with automated product content and global marketplace reach — built at the **Hack2Skill GenAI Exchange Hackathon** in 48 hours.
+
+`Next.js` `TypeScript` `Google Genkit` `Tailwind CSS` `ShadCN UI` `Framer Motion` `Zod` `React Hook Form`
+
+### 🍳 FridgeNow — Cook What You Actually Have
+Drop 3 fridge ingredients → get a real, cookable recipe in under 5 seconds. No substitutions. No grocery runs.
+
+`HTML` `CSS` `JavaScript` `Anthropic Claude API`
+
+### 🚌 BusNow — Real-Time Bus Delay Predictor
+Predicts Hyderabad bus ETAs with **91% accuracy** using live GPS + 30-day delay history.
+
+`GTFS Realtime` `Haversine formula` `HTML` `CSS` `JavaScript`
+
+### 🏏 IPL 2021–2025 — Death Overs Win Matches, Not the Toss
+Analysed 370+ IPL matches, finding death overs are **3.6× more decisive** than the powerplay.
+
+`Python 3.10+` `pandas` `matplotlib`
+
+---
+
+## `Experience timeline`
+
+```
+Aug 2025                  Sep 2025                  Oct 2025
+    ●─────────────────────────●─────────────────────────●
+    │                         │                         │
+Hack2Skill              Tata Group                   BCG X
+GenAI Builder           Data Analytics Intern        Strategy Simulation
+(ArtEcho)               (Forage)                    (Forage)
+```
+
+---
+
+## `Achievements`
+
+```
+┌───────────────────┬───────────────────┬───────────────────┬───────────────────┐
+│    AIR 39         │   30-Day Streak   │   Word-Slinger    │  Google Arcade    │
+│  Young Turks 2025 │   on Unstop       │   Winner · Wooble │  Ranger Rewards   │
+│  Naukri Campus    │   + recognition   │   INR ₹3,000      │  Google Cloud     │
+│  All India Rank   │   goodies         │   cash prize      │  Dec 2025         │
+└───────────────────┴───────────────────┴───────────────────┴───────────────────┘
+```
+
+---
+
+## `Skills & tools`
+
+```
+Languages   │ Java  ██████████  Python  ████████  JavaScript  ███████  SQL  ██████
+Frontend    │ Next.js  ████████  React  ███████  Tailwind  ████████  ShadCN  ██████
+AI / GenAI  │ Google Genkit  ████████  Claude API  ████████  Prompt Eng.  ██████
+Data        │ pandas  ███████  matplotlib  ██████  GTFS  █████
+Foundations │ DSA  █████████  HTML · CSS  █████████
+```
+
+---
+
+## `GitHub stats`
 
 <div align="center">
-
-| 🥇 Achievement | 🔖 Details |
-|---|---|
-| 🎯 **AIR 39 — Young Turks 2025** | All India Rank 39, Naukri Campus national competition |
-| 🔥 **30-Day Coding Streak** | Completed on Unstop + received recognition goodies |
-| ✍️ **Word-Slinger Winner** | Won INR ₹3,000 cash prize at Wooble's Write To Influence Round 2 |
-| ☁️ **Google Arcade Ranger** | Earned Google Cloud Ranger Rewards (Dec 2025) |
-| 🤖 **GenAI Exchange Hackathon** | Shipped ArtEcho at Hack2Skill — Hack2Skill GenAI Exchange |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Trinu15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinu15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Trinu15&show_icons=true&theme=graywhite&hide_border=true&title_color=534AB7&icon_color=1D9E75&text_color=3d3d3a" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinu15&layout=compact&theme=graywhite&hide_border=true&title_color=534AB7&text_color=3d3d3a" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trinu15&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=f472b6&currStreakLabel=38bdf8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trinu15&theme=graywhite&hide_border=true&ring=534AB7&fire=D85A30&currStreakLabel=1D9E75" />
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## `Currently exploring`
 
 ```python
 trinaini = {
-    "learning"   : ["LLM Fine-tuning", "Agentic AI", "Product Strategy"],
-    "building"   : "next GenAI product (stealth 🤫)",
-    "reading"    : "how great products think",
-    "open_to"    : ["Internships", "Collabs", "Hackathons", "Open Source"],
+    "building"   : "next GenAI product 🤫",
+    "learning"   : ["LLM agents", "Agentic workflows", "Product strategy"],
+    "open_to"    : ["Internships", "Hackathons", "Open-source collabs"],
+    "hobbies"    : ["Drawing", "Sudoku", "Writing", "Walking"],
 }
 ```
 
 ---
 
-## 🎨 Beyond the Code
-
-```
-🎨 Drawing         — Visual thinking that feeds product design instincts
-🔢 Sudoku          — Logic patterns that sharpen DSA thinking
-✍️ Writing         — Won a national blog competition (Wooble)
-🚶 Walking         — Best ideas happen offline
-```
-
----
-
-## 📬 Let's Connect & Build
+## `Let's connect`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-S_Trinaini-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/s-trinaini)
-[![GitHub](https://img.shields.io/badge/GitHub-Trinu15-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/Trinu15)
-[![Email](https://img.shields.io/badge/Email-strinaini@gmail.com-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:strinaini@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29)](https://github.com/Trinu15)
+[![Email](https://img.shields.io/badge/strinaini@gmail.com-534AB7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strinaini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/S_Trinaini-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-trinaini)
+[![GitHub](https://img.shields.io/badge/Trinu15-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trinu15)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"The best products solve real problems for real people — and that's all I'm trying to do."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:AFA9EC,100:EEEDFE&height=80&section=footer&animation=fadeIn" />
 </div>
