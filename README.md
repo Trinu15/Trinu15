@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <!-- ANIMATED HEADER BANNER — renders as a real image on GitHub -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,50:5DCAA5,100:EF9F27&height=200&section=header&text=Trinaini%20S&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=CS%20Student%20%7C%20GenAI%20Builder%20%7C%20Product%20Thinker&descSize=18&descAlignY=62&descColor=ffffff&animation=fadeIn"/>
